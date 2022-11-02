@@ -34,10 +34,6 @@ function filtrar(funcion) {
      });
      return newArray;
    }
-  //  let filtrado = this.filtrar(function(p){
-  //    return p.price >= 50;
-  //  })
-  //  return filtrado;
 };
 
 // No modifiques nada debajo de esta linea //
